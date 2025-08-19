@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/GaleriaOnline.WebApi/imagens/76269fbb-634c-4d84-9581-3d58f18c5844.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\76269fbb-634c-4d84-9581-3d58f18c5844.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jXHyQYTcSnuv0vwro/SGHvH5\u002BJdnjZTOx9\u002B0RBf9hec="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"961819"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jXHyQYTcSnuv0vwro/SGHvH5\u002BJdnjZTOx9\u002B0RBf9hec=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Aug 2025 17:53:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GaleriaOnline.WebApi/imagens/76269fbb-634c-4d84-9581-3d58f18c5844.ra3fgs91dn.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\76269fbb-634c-4d84-9581-3d58f18c5844.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ra3fgs91dn"},{"Name":"integrity","Value":"sha256-jXHyQYTcSnuv0vwro/SGHvH5\u002BJdnjZTOx9\u002B0RBf9hec="},{"Name":"label","Value":"_content/GaleriaOnline.WebApi/imagens/76269fbb-634c-4d84-9581-3d58f18c5844.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"961819"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jXHyQYTcSnuv0vwro/SGHvH5\u002BJdnjZTOx9\u002B0RBf9hec=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Aug 2025 17:53:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

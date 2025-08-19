@@ -1,12 +1,125 @@
 {
   "Version": 1,
-  "Hash": "AiQF5ECF9Cj7UpB5ixvXao1WRMuDWJhWDcazbICmxRc=",
+  "Hash": "VQikgy8oWGhrWy0LQpwFHXOkLXPtT6c1tuWhrhWKwJY=",
   "Source": "GaleriaOnline.WebApi",
   "BasePath": "_content/GaleriaOnline.WebApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "GaleriaOnline.WebApi\\wwwroot",
+      "Source": "GaleriaOnline.WebApi",
+      "ContentRoot": "C:\\Users\\56805860881\\Desktop\\galeriaOnline\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\56805860881\\Desktop\\galeriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\76269fbb-634c-4d84-9581-3d58f18c5844.png",
+      "SourceId": "GaleriaOnline.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\56805860881\\Desktop\\galeriaOnline\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "RelativePath": "imagens/76269fbb-634c-4d84-9581-3d58f18c5844#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ra3fgs91dn",
+      "Integrity": "jXHyQYTcSnuv0vwro/SGHvH5+JdnjZTOx9+0RBf9hec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\76269fbb-634c-4d84-9581-3d58f18c5844.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "imagens/76269fbb-634c-4d84-9581-3d58f18c5844.png",
+      "AssetFile": "C:\\Users\\56805860881\\Desktop\\galeriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\76269fbb-634c-4d84-9581-3d58f18c5844.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "961819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jXHyQYTcSnuv0vwro/SGHvH5+JdnjZTOx9+0RBf9hec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Aug 2025 17:53:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jXHyQYTcSnuv0vwro/SGHvH5+JdnjZTOx9+0RBf9hec="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/76269fbb-634c-4d84-9581-3d58f18c5844.ra3fgs91dn.png",
+      "AssetFile": "C:\\Users\\56805860881\\Desktop\\galeriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\76269fbb-634c-4d84-9581-3d58f18c5844.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "961819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jXHyQYTcSnuv0vwro/SGHvH5+JdnjZTOx9+0RBf9hec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Aug 2025 17:53:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ra3fgs91dn"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/76269fbb-634c-4d84-9581-3d58f18c5844.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jXHyQYTcSnuv0vwro/SGHvH5+JdnjZTOx9+0RBf9hec="
+        }
+      ]
+    }
+  ]
 }
