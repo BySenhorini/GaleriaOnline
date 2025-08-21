@@ -58,8 +58,7 @@
               "RelativeToolTip": "DTO\\PutImagemDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T19:00:44.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T19:00:44.731Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "Controllers\\ImagemControllers.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAAAowJQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:37:18.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T16:37:18.179Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-19T16:17:35.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T16:17:35.262Z"
             },
             {
               "$type": "Document",
@@ -93,9 +90,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\56805860881\\Desktop\\galeriaOnline\\GaleriaOnline.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\56805860881\\Desktop\\galeriaOnline\\GaleriaOnline.WebApi\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\56805860881\\Desktop\\galeriaOnline\\GaleriaOnline.WebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T14:19:43.516Z",
               "EditorCaption": ""
@@ -110,8 +107,7 @@
               "RelativeToolTip": "Repositories\\ImagemRepository.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAqwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T14:29:30.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T14:29:30.012Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "Interfaces\\IImagemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T14:18:55.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T14:18:55.73Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "Models\\Imagem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T13:39:26.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T13:39:26.871Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "DbContextImagem\\GaleriaOnlineDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T12:57:44.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T12:57:44.935Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "DTO\\ImagemDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:47:33.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T16:47:33.839Z"
             }
           ]
         }
